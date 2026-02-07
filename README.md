@@ -1,4 +1,4 @@
-[![MasterHead]()]
+![MasterHead](man-using-laptop-night-top-view-web-banner-with-copy-space.jpg)
 <h1 align="center">Hi 👋, I'm Nawoda Jayakody</h1>
 <h3 align="center">Software Engineering Undergraduate | UoW | IIT</h3>
 
