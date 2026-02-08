@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="download.jpg">
                   
 
-- 🌱 I’m currently learning **Java,HTML,css,JavaScript,Python**
+- 🌱 I’m currently learning **Java,HTML,CSS,JavaScript,Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
