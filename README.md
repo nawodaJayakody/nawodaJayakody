@@ -1,7 +1,7 @@
 ![MasterHead](man-using-laptop-night-top-view-web-banner-with-copy-space.jpg)
 <h1 align="center">Hi 👋, I'm Nawoda Jayakody</h1>
 <h3 align="center">Software Engineering Undergraduate | UoW | IIT</h3>
-<img align="right" alt="Coding" width="400" src="download.jpg">
+<img align="right" alt="Coding" width="400" src="marcosconsultor88-ai-generated-8684869_1280.jpg">
                   
 
 - 🌱 I’m currently learning **Java,HTML,CSS,JavaScript,Python**
